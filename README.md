@@ -1,4 +1,4 @@
-[Deployed application](https://freelandos.github.io/4_Coursework_WebCloudUI/)
+[Deployed application](https://selivados.github.io/4_Coursework_WebCloudUI/)
 
 # Курсовая работа «Облачное хранилище WebCloud (UI)» курса «JavaScript: основы работы в браузере»
 ### Описание
